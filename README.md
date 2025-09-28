@@ -41,12 +41,15 @@ All product and model photography used in this application were generated using 
 To run this project locally:
 
 1.  Clone the repository.
-2.  Install the dependencies:
+2.   ```bash
+    git clone https://github.com/BenazizaAbdelkaderRiyadh/neww-vestes.git
+    ```
+3.  Install the dependencies:
     ```bash
     npm install
     ```
-3.  Start the development server:
+4.  Start the development server:
     ```bash
     npm run dev
     ```
-4.  Open your browser to the local address provided.
+5.  Open your browser to the local address provided.
