@@ -41,7 +41,7 @@ All product and model photography used in this application were generated using 
 To run this project locally:
 
 1.  Clone the repository.
-2.   ```bash
+     ```bash
     git clone https://github.com/BenazizaAbdelkaderRiyadh/neww-vestes.git
     ```
 3.  Install the dependencies:
