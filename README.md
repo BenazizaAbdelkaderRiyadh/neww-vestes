@@ -4,7 +4,7 @@ A concept e-commerce application showcasing futuristic, AI-inspired apparel. Thi
 
 
 
-![Screenshot](./screenshot/Screenshot1.png)
+![Screenshot](./screenshotS/Screenshot1.png)
 
 
 ## ✨ Features
