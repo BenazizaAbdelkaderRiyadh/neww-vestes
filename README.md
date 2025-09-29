@@ -28,11 +28,10 @@ A concept e-commerce application showcasing futuristic, AI-inspired apparel. Thi
 - **Styling:** Tailwind CSS for utility-first styling and custom animations.
 - **Build Tool:** Vite (inferred from the project setup)
 
-## 🤖 Image Credits
 
-All product and model photography used in this application were generated using **Google's Gemini AI**.
+## ⚠️ Disclaimer
 
-
+**This is a portfolio project and not a real e-commerce store.** The products are not for sale, and the checkout process is not functional. This project was created for demonstration purposes to showcase frontend development and UI/UX design skills.
 
 ## 🚀 Running the Project
 
